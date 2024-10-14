@@ -31,4 +31,5 @@ Once the files are refreshed, this macro automates the process of emailing the r
 
 ---
 
+![image](https://github.com/user-attachments/assets/f5d2338f-28a3-4aac-888e-c4d175e1bf1c)
 
